@@ -1,6 +1,6 @@
 _  = function(p) return p; end;
-name = _('cam-top-helios-btm-ka-50');
-Description = 'cam-top-helios-btm-ka-50'
+name = _('cam-top-helios-btm');
+Description = 'cam-top-helios-btm'
 
 -- Main monitor
 local MainMonitor = {

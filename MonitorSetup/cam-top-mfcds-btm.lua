@@ -1,6 +1,6 @@
 _  = function(p) return p; end;
-name = _('cam-left-mfcds-btm');
-Description = 'cam-left-mfcds-btm'
+name = _('cam-top-mfcds-btm');
+Description = 'cam-top-mfcds-btm'
 Viewports =
 {
      Top =
