@@ -85,19 +85,18 @@ MFCD_05 =
 
 A10C_LEFT_MFCD =
 { 
-x = 60;
-y = SecondaryMonitor.y + 120;
-width = 445;
-height = 445;
+x = 72;
+y = SecondaryMonitor.y + 130;
+width = 430;
+height = 430;
 }
-
 
 A10C_RIGHT_MFCD =
 { 
-x = 1415;
-y = SecondaryMonitor.y + 120;
-width = 445;
-height = 445;
+x = 1418;
+y = SecondaryMonitor.y + 130;
+width = 430;
+height = 430;
 }
 
 A10C_DIGITAL_CLOCK =
@@ -134,8 +133,8 @@ height = 49;
 
 A10C_UHF_FRQ_STATUS =
 { 
-x = 748;
-y = SecondaryMonitor.y + 161;
+x = 635;
+y = SecondaryMonitor.y + 565;
 width = 120;
 height = 30;
 }
@@ -155,6 +154,14 @@ x = 656;
 y = SecondaryMonitor.y + 695;
 width = 110;
 height = 30;
+}
+
+KNEEBOARD =
+{
+x = 0;
+y = 0;
+width = 910;
+height = 1080;
 }
 
 Viewports =
